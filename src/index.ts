@@ -32,7 +32,7 @@ export const splitZhuyin = (zhuyin: string, everything = false) => {
   while (index < zhuyin.length) {
     let count = zhuyin.length - index
     let wordFound = false
-    while (count > 1) {
+    while (count >= 1) {
       let word = zhuyin.substr(index, count)
       if (Object.values(py2zy).includes(word)) { // word found
         wordFound = true

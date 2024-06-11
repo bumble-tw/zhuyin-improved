@@ -1,6 +1,6 @@
 {
-  "name": "zhuyin",
-  "version": "1.13.0",
+  "name": "zhuyin-improved",
+  "version": "1.0.0",
   "description": "Convert Zhuyin to Pinyin",
   "keywords": [
     "chinese",
@@ -11,16 +11,16 @@
     "拼音",
     "注音"
   ],
-  "homepage": "https://github.com/pepebecker/zhuyin#readme",
+  "homepage": "https://github.com/nick1092387456/zhuyin-improved",
   "bugs": {
-    "url": "https://github.com/pepebecker/zhuyin/issues"
+    "url": "https://github.com/nick1092387456/zhuyin-improved"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pepebecker/zhuyin.git"
+    "url": "https://github.com/nick1092387456/zhuyin-improved.git"
   },
-  "license": "ISC",
-  "author": "Pepe Becker <mail@pepebecker.com> (https://pepe.asia)",
+  "license": "MIT",
+  "author": "Bumble",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/types/index.d.ts",

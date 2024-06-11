@@ -1,23 +1,13 @@
-# Zhuyin 注音
-
-[![npm version](https://img.shields.io/npm/v/zhuyin.svg)](https://www.npmjs.com/package/zhuyin)
-[![Travis Build Status](https://travis-ci.org/pepebecker/zhuyin.svg)](https://travis-ci.org/pepebecker/zhuyin)
-[![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/zhuyin.svg)](https://greenkeeper.io/)
-[![dependency status](https://img.shields.io/david/pepebecker/zhuyin.svg)](https://david-dm.org/pepebecker/zhuyin)
-[![dev dependency status](https://img.shields.io/david/dev/pepebecker/zhuyin.svg)](https://david-dm.org/pepebecker/zhuyin#info=devDependencies)
-[![ISC-licensed](https://img.shields.io/github/license/pepebecker/zhuyin.svg)](https://choosealicense.com/licenses/isc/)
-[![chat on gitter](https://badges.gitter.im/pepebecker.svg)](https://gitter.im/pepebecker)
-
 ## Install
 
 ```shell
-npm install zhuyin
+npm install zhuyin-improved
 ```
 
 ## Usage
 
 ```js
-import { fromPinyin } from 'zhuyin'
+import { fromPinyin } from 'zhuyin-improved'
 
 console.log(fromPinyin('wǒ de māo xǐhuan hē níunǎi'))
 
@@ -32,6 +22,7 @@ console.log(fromPinyin('wo3demao1xi3huanhe1niu2nai3'))
 
 ## Related
 
+- [`zhuyin`] (https://github.com/pepebecker/zhuyin)
 - [`pinyin-utils`](https://github.com/pepebecker/pinyin-utils)
 - [`pinyin-split`](https://github.com/pepebecker/pinyin-split)
 - [`find-hanzi`](https://github.com/pepebecker/find-hanzi)
@@ -51,6 +42,3 @@ console.log(fromPinyin('wo3demao1xi3huanhe1niu2nai3'))
 - [`pinyin-cli`](https://github.com/pepebecker/pinyin-cli)
 - [`hanzi-cli`](https://github.com/pepebecker/hanzi-cli)
 
-## Contributing
-
-If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/pepebecker/zhuyin/issues).

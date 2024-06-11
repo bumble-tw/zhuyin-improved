@@ -1,13 +1,13 @@
 ## Install
 
 ```shell
-npm install zhuyin
+npm install zhuyin-imporved
 ```
 
 ## Usage
 
 ```js
-const zhuyin = require("zhuyin")
+const zhuyin = require("zhuyin-improved")
 
 zhuyin("wǒ de māo xǐhuan hē níunǎi").then(console.log)
 

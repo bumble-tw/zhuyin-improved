@@ -1,3 +1,7 @@
+## improved
+- 修正無法轉換單音的bug
+- 修正注音4聲會轉換錯誤的bug
+
 ## Install
 
 ```shell

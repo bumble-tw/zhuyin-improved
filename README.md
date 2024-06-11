@@ -40,7 +40,3 @@ zhuyin("wo3demao1xi3huanhe1niu2nai3").then(console.log)
 - [`pinyin-chrome`](https://github.com/pepebecker/pinyin-chrome)
 - [`pinyin-cli`](https://github.com/pepebecker/pinyin-cli)
 - [`hanzi-cli`](https://github.com/pepebecker/hanzi-cli)
-
-## Contributing
-
-If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/pepebecker/zhuyin/issues).

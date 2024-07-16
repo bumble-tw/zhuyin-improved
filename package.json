@@ -33,7 +33,7 @@
     "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json"
   },
   "dependencies": {
-    "pinyin-split": "^1.140.0",
+    "pinyin-split": "^1.170.0",
     "pinyin-utils": "^2.3.0"
   },
   "devDependencies": {
